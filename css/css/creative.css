@@ -81,7 +81,8 @@ img::-moz-selection {
 }
 
 #mainNav {
-  border-bottom: 1px solid rgba(33, 37, 41, 0.1);
+  /* border-bottom: 1px solid rgba(33, 37, 41, 0.1); */
+  border: 2px hotpink;
   background-color: #fff;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   -webkit-transition: all 0.2s;
