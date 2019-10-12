@@ -1,0 +1,8 @@
+body {
+    font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
